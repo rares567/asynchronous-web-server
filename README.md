@@ -10,17 +10,6 @@ This project implements an asynchronous web server in C using advanced I/O opera
 - **Non-Blocking Sockets:** Ensures scalability and responsiveness under high loads.
 - **Minimal HTTP Protocol Implementation:** Supports GET requests with proper response headers.
 
-## Installation & Compilation
-### Prerequisites
-- Linux-based OS
-- GCC compiler
-- `make` utility
-
-### Steps to Build
-```sh
-make
-```
-
 ## Usage
 1. Build the server:
    ```sh
